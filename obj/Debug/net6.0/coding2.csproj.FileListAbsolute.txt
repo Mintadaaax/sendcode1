@@ -1,0 +1,15 @@
+C:\Users\ACER\Desktop\coding2\bin\Debug\net6.0\coding2.exe
+C:\Users\ACER\Desktop\coding2\bin\Debug\net6.0\coding2.deps.json
+C:\Users\ACER\Desktop\coding2\bin\Debug\net6.0\coding2.runtimeconfig.json
+C:\Users\ACER\Desktop\coding2\bin\Debug\net6.0\coding2.dll
+C:\Users\ACER\Desktop\coding2\bin\Debug\net6.0\coding2.pdb
+C:\Users\ACER\Desktop\coding2\obj\Debug\net6.0\coding2.csproj.AssemblyReference.cache
+C:\Users\ACER\Desktop\coding2\obj\Debug\net6.0\coding2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Desktop\coding2\obj\Debug\net6.0\coding2.AssemblyInfoInputs.cache
+C:\Users\ACER\Desktop\coding2\obj\Debug\net6.0\coding2.AssemblyInfo.cs
+C:\Users\ACER\Desktop\coding2\obj\Debug\net6.0\coding2.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\coding2\obj\Debug\net6.0\coding2.dll
+C:\Users\ACER\Desktop\coding2\obj\Debug\net6.0\refint\coding2.dll
+C:\Users\ACER\Desktop\coding2\obj\Debug\net6.0\coding2.pdb
+C:\Users\ACER\Desktop\coding2\obj\Debug\net6.0\coding2.genruntimeconfig.cache
+C:\Users\ACER\Desktop\coding2\obj\Debug\net6.0\ref\coding2.dll
